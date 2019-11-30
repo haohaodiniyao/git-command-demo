@@ -1,4 +1,4 @@
-package com.example.gitcommanddemo;
+package com.example.gitcommanddemo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
